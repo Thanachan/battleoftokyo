@@ -1,3 +1,4 @@
 Nirut Phimonprasoetsuk
 age : 22
 Nation : Thai
+Nickname : Arm
